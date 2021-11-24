@@ -1,4 +1,4 @@
-# Insurtech Dapp
+# Insurtech Dapp: Screencast here -> https://www.loom.com/share/b12bd42dd9e8431e84d234d3a28a7dbd
 # 1. User1 upload insurance request with name and amount of total value to be insured
 # 2. Other users cover the premium - digital assets at stake in the smart contract
 # 3. Smart contract gets data from Oracle

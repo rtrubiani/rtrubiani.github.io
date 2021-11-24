@@ -24,7 +24,7 @@ class App extends Component {
       );
 
       
-instance.options.address = "0x2219B5241CfF9fe9E36Ff19b6Da4487b07248226"
+instance.options.address = "0x0c3520B70Ce87A017a1a224e5E01cfD5e27c8460"
 
       // Set web3, accounts, and contract to the state, and then proceed with an
       // example of interacting with the contract's methods.
