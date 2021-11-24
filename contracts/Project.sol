@@ -1,13 +1,13 @@
 // SPDX-License-Identifier: GPL-3.0
 
-pragma solidity >=0.7.0 <0.9.0;
+pragma solidity >=0.4.22 <0.9.0;
 
 /**
- * @title Storage
+ * @title Project
  * @dev Store & retrieve value in a variable
  */
  // Create 2 variables: insurance request name, amount required
-contract Storage {
+contract Project {
 
     uint256 number;
     string name;
